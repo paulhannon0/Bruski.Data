@@ -10,7 +10,7 @@ namespace Bruski.Data.Models
 
         public string Type { get; set; }
 
-        public string Color { get; set; }
+        public string ColorLovibond { get; set; }
 
         public string PPG { get; set; }
     }
