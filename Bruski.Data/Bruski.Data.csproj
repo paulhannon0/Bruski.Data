@@ -4,4 +4,8 @@
         <OutputType>Exe</OutputType>
         <LangVersion>8.0</LangVersion>
     </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="HtmlAgilityPack.NetCore" Version="1.5.*" />
+    </ItemGroup>
 </Project>

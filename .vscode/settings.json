@@ -1,0 +1,9 @@
+{
+    "[c#]": {
+        "editor.defaultFormatter": "csharp"
+    },
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "files.insertFinalNewline": true
+}
